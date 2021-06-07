@@ -1,4 +1,4 @@
-package proto
+package github.com/Chiu1004/proto
 
 import (
 	"bufio"
